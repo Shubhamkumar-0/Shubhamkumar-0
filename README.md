@@ -27,5 +27,7 @@
 ---
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![LinkedIn](https://www.linkedin.com/in/shubham-kumar-692161217/)
+[![YouTube](www.youtube.com/@WhyCodeMrBean)
+
+
