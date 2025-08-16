@@ -4,7 +4,7 @@
   💻 Full-Stack Developer from Nalanda, Bihar  
   ⚡ I love building sleek UIs, scalable backends, and exploring new technologies 🚀  
 
-                                                  ---
+---
 
   ## 🌱 Current Focus
   - 🔧 Backend Engineering with **Rust & Node.js**
