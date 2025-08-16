@@ -1,16 +1,16 @@
-# Hey there 👋, I'm Shubham kumar
+                                                                          # Hey there 👋, I'm Shubham kumar
 
 
-💻 Full-Stack Developer from Nalanda, Bihar  
-⚡ I love building sleek UIs, scalable backends, and exploring new technologies 🚀  
+                                                                    💻 Full-Stack Developer from Nalanda, Bihar  
+                                                  ⚡ I love building sleek UIs, scalable backends, and exploring new technologies 🚀  
 
----
+                                                  ---
 
-## 🌱 Current Focus
-- 🔧 Backend Engineering with **Rust & Node.js**
-- 🌐 Exploring **Web3 & decentralized protocols**
-- 🐳 DevOps with **Docker, Kubernetes, CI/CD**
-- 📚 Hardcore **DSA prep** for placements
+                                                                  ## 🌱 Current Focus
+                                                                  - 🔧 Backend Engineering with **Rust & Node.js**
+                                                                  - 🌐 Exploring **Web3 & decentralized protocols**
+                                                                  - 🐳 DevOps with **Docker, Kubernetes, CI/CD**
+                                                                  - 📚 Hardcore **DSA prep** for placements
 
 ---
 
