@@ -7,10 +7,10 @@
 ---
 
   ## 🌱 Current Focus
-  - 🔧 Backend Engineering with **Rust & Node.js**
-  - 🌐 Exploring **Web3 & decentralized protocols**
-  - 🐳 DevOps with **Docker, Kubernetes, CI/CD**
+  - 🔧 rebulid myself (manage consistancy )
+  - 🌐 Exploring Robotics and Automation
   - 📚 Hardcore **DSA prep** for placements
+  - 🎸 starting guitar playing
 
 ---
 
@@ -28,7 +28,7 @@
 
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-692161217/)
-[![Twitter](https://img.shields.io/badge/youtube-%231DA1F2.svg?logo=youtube&logoColor=white)](www.youtube.com/@WhyCodeMrBean)
+[![Youtube](https://img.shields.io/badge/youtube-%231DA1F2.svg?logo=youtube&logoColor=red)](www.youtube.com/@WhyCodeMrBean)
 
 
 
