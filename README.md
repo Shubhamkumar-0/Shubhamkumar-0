@@ -9,6 +9,7 @@
   ## 🌱 Current Focus
   - 🔧 rebulid myself (manage consistancy )
   - 🌐 Exploring Robotics and Automation
+  - 🌐 Exploring cloud computing ,devops and ai/ml
   - 📚 Hardcore **DSA prep** for placements
   - 🎸 starting guitar playing
 
