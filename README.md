@@ -16,8 +16,9 @@
 ---
 
 ## 🚀 Featured Projects
-- [Project 1](https://shubhamkumar-0.github.io/WHCODE/src/) - WHCODE its a notes website
-- [Project 2](https://shubhamkumar-0.github.io/AI-Project/) - Personal Finance Tracker with AI Assistant
+- [Project 1](https://shubhamkumar-0.github.io/skill-india/) -  Skill-India website
+- [Project 1](https://shubhamkumar-0.github.io/WHCODE/src/)  -  WHCODE its a notes website
+- [Project 2](https://shubhamkumar-0.github.io/AI-Project/)  -  Personal Finance Tracker with AI Assistant
 
 ---
 
