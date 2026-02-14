@@ -27,6 +27,13 @@
 [![Your GitHub stats]](https://github-readme-stats.vercel.app/api?username=Shubhamkumar-0&show_icons=true&theme=radical)
 [![Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar-0&layout=compact&theme=radical)
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubhamkumar-0&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar-0&layout=compact&theme=radical)
+
+
 ---
 
 ## 🌍 Connect with Me
