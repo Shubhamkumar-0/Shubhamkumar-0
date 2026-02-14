@@ -11,7 +11,8 @@
   - 🌐 Exploring Robotics and Automation
   - 🌐 Exploring cloud computing ,devops and ai/ml
   - 📚 Hardcore **DSA prep** for placements
-  - 🎸 starting guitar playing
+  - 🎸 Playing Guitar + 🥁 Drums + 🪘 Cajón
+  - ✍️ Part-time writer + shayar
 
 ---
 
@@ -23,8 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shubhamkumar-0&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar-0&layout=compact&theme=radical)
+[![Your GitHub stats]](https://github-readme-stats.vercel.app/api?username=Shubhamkumar-0&show_icons=true&theme=radical)
+[![Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar-0&layout=compact&theme=radical)
 
 ---
 
