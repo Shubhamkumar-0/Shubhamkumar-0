@@ -21,12 +21,6 @@
 - [Project 2](https://shubhamkumar-0.github.io/WHCODE/src/)  -  WHCODE its a notes website
 - [Project 3](https://shubhamkumar-0.github.io/AI-Project/)  -  Personal Finance Tracker with AI Assistant
 
----
-
-## 📊 GitHub Stats
-[![Your GitHub stats]](https://github-readme-stats.vercel.app/api?username=Shubhamkumar-0&show_icons=true&theme=radical)
-[![Top Languages]](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhamkumar-0&layout=compact&theme=radical)
-
 
 ---
 
