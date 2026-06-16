@@ -19,7 +19,7 @@
 ## 🚀 Featured Projects
 - [Project 1](https://anuragag26.github.io/Skill-India-Website-demo/) -  Skill-India website
 - [Project 2](https://shubhamkumar-0.github.io/WHCODE/src/)  -  WHCODE its a notes website
-- [Project 3](https://shubhamkumar-0.github.io/AI-Project/)  -  Personal Finance Tracker with AI Assistant
+- [Project 3](https://class-project-swart.vercel.app/)  -  E-Learning Platform for Rural Areas
 
 
 ---
