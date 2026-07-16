@@ -1,32 +1,109 @@
-# Hey there 👋, I'm Shubham kumar (MrBean...;)
+# 👋 Hey, I'm **Shubham Kumar (MrBean)**
 
+### 💻 Full-Stack Developer | B.Tech CSE Student | Bihar, India 🇮🇳
 
-  💻 Full-Stack Developer from Nalanda, Bihar  
-  ⚡ I love building sleek UIs, scalable backends, and exploring new technologies 🚀  
-
----
-
-  ## 🌱 Current Focus
-  - 🔧 rebulid myself (manage consistancy )
-  - 🌐 Exploring Robotics and Automation
-  - 🌐 Exploring cloud computing ,devops and ai/ml
-  - 📚 Hardcore **DSA prep** for placements
-  - 🎸 Playing Guitar + 🥁 Drums + 🪘 Cajón
-  - ✍️ Part-time writer + shayar
+> *Building modern web applications, solving DSA problems, and constantly rebuilding myself every single day.* 🚀
 
 ---
 
-## 🚀 Featured Projects
-- [Project 1](https://anuragag26.github.io/Skill-India-Website-demo/) -  Skill-India website
-- [Project 2](https://shubhamkumar-0.github.io/WHCODE/src/)  -  WHCODE its a notes website
-- [Project 3](https://class-project-swart.vercel.app/)  -  E-Learning Platform for Rural Areas
+## 🚀 About Me
 
+* 💻 Passionate **Full-Stack Developer**
+* 📚 Preparing for **Software Engineering & Placement Interviews**
+* 🌱 Currently exploring **Cloud Computing, DevOps, AI/ML & Robotics**
+* ⚡ Love creating beautiful UIs with powerful backends
+* 🎸 Guitarist | 🥁 Drummer | 🪘 Cajón Player
+* ✍️ Part-time Writer & Shayar
 
 ---
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-kumar-692161217/)
-[![Youtube](https://img.shields.io/badge/youtube-%231DA1F2.svg?logo=youtube&logoColor=red)](www.youtube.com/@WhyCodeMrBean)
+## 🎯 Current Focus
 
+* 🔥 Rebuilding myself through consistency
+* 💡 Mastering the **MERN Stack**
+* 🧠 Hardcore **DSA** preparation
+* ☁️ Learning **Cloud Computing & DevOps**
+* 🤖 Exploring **AI/ML & Robotics**
+* 🚀 Building real-world projects
 
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+`C++` `JavaScript` `Python` `Java`
+
+### 🌐 Frontend
+
+`HTML` `CSS` `Tailwind CSS` `React.js`
+
+### ⚙️ Backend
+
+`Node.js` `Express.js`
+
+### 🗄️ Database
+
+`MongoDB` `MySQL`
+
+### 🧰 Tools
+
+`Git` `GitHub` `VS Code` `Postman` `Linux`
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Skill India Website
+
+🔗 https://anuragag26.github.io/Skill-India-Website-demo/
+
+A responsive website showcasing Skill India initiatives with a clean and modern UI.
+
+---
+
+### 📚 WHCODE Notes Platform
+
+🔗 https://shubhamkumar-0.github.io/WHCODE/src/
+
+A notes-sharing platform designed to provide organized study resources for students.
+
+---
+
+### 🎓 E-Learning Platform
+
+🔗 https://class-project-swart.vercel.app/
+
+An online learning platform built to improve digital education accessibility for rural areas.
+
+---
+
+# 📄 Portfolio & Resume
+
+🌐 **Portfolio:** *(Coming Soon)*
+
+📄 **Resume / CV:** *(Add your Google Drive or Resume link here)*
+
+---
+
+# 🌍 Connect With Me
+
+💼 LinkedIn
+https://www.linkedin.com/in/shubham-kumar-692161217/
+
+📺 YouTube
+https://www.youtube.com/@WhyCodeMrBean
+
+💻 GitHub
+https://github.com/shubhamkumar-0
+
+---
+
+## 💭 Quote
+
+> **"Discipline beats motivation. Consistency builds greatness."** 🚀
+
+---
+
+⭐ *If you like my work, don't forget to star my repositories!*
 
