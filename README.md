@@ -30,9 +30,13 @@
 ## 🛠️ Tech Stack
 
 💻 Languages :- `C++` `JavaScript` `Python` `Java`
+
 🌐 Frontend :- `HTML` `CSS` `Tailwind CSS` `React.js`
+
 ⚙️ Backend :- `Node.js` `Express.js`
+
 🗄️ Database :- `MongoDB` `MySQL`
+
 🧰 Tools :- `Git` `GitHub` `VS Code` `Postman` `Linux`
 
 ---
@@ -40,14 +44,17 @@
 # 🚀 Featured Projects
 
 🌐 Skill India Website :- 🔗 https://anuragag26.github.io/Skill-India-Website-demo/
+
 A responsive website showcasing Skill India initiatives with a clean and modern UI.
 
 ---
 📚 WHCODE Notes Platform :- 🔗 https://shubhamkumar-0.github.io/WHCODE/src/
+
 A notes-sharing platform designed to provide organized study resources for students.
 
 ---
 ### 🎓 E-Learning Platform :- 🔗 https://class-project-swart.vercel.app/
+
 An online learning platform built to improve digital education accessibility for rural areas.
 
 ---
@@ -55,6 +62,7 @@ An online learning platform built to improve digital education accessibility for
 # 📄 Portfolio & Resume
 
 🌐 **Portfolio:** https://myportfolio-25a2.vercel.app/
+
 📄 **Resume / CV:** *(Add your Google Drive or Resume link here)*
 
 ---
