@@ -48,7 +48,8 @@
 A responsive website showcasing Skill India initiatives with a clean and modern UI.
 
 ---
-📚 WHCODE Notes Platform :- 🔗 https://shubhamkumar-0.github.io/WHCODE/src/
+📚 WHCODE Notes Platform :- 🔗 https://whcode-main.vercel.app/
+(in working phage)
 
 A notes-sharing platform designed to provide organized study resources for students.
 
